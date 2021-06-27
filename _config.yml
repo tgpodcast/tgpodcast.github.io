@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+name: TG Media
+
+# Short bio or description (displayed in the header)
+description: Home of the TG Podcast
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: "https://cdn.discordapp.com/attachments/763961928673919037/764562621822926878/TGPodcast_Concept_3_1.png"
+
+# Site settings
+title: TG Podcast
+description: "Home of the podcast for TG Players, by TG Players"
+subtitle: "The first, best, and only podcast that is beamed directly into your earholes from our Lord and Savior VTD"
+lang: en-us
+author: ABlazingEBoy # the subpath of your site, e.g. /blog
+url: "https://tgpodcast.github.io" # the base hostname & protocol for your site
+
+permalink: /:year/:title.html
+
+#Timezone
+timezone: United States/New York
+
+#Setup for Pages
+include: ['_pages']
+
+# Build settings
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+
+theme: jekyll-theme-minimal
