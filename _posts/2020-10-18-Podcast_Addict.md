@@ -3,8 +3,8 @@ layout: post
 title: "Episode 1: Podcast_Addict"
 date: 2020-10-18 23:16:00 EST
 file: https://archive.org/download/tgpodcast-ep-1-1/TGPodcast_Ep_1_1.mp3
-summary: "The TG Mod Cheese_Addict becomes the first ever guest on the TG Podcast!"
-description: "The TG Mod Cheese_Addict becomes the first ever guest on the TG Podcast, talking about everything from moderation to the Birch Church!\nCredits:
+summary: "Renowned Short Person Cheese_Addict becomes the first ever guest on the TG Podcast!"
+description: "Renowned Short Person Cheese_Addict becomes the first ever guest on the TG Podcast, talking about everything from moderation to the Birch Church!\nCredits:
 \n    Music: Pigstep - Lena Raine
 \n    Editor: JMan_TheGamerYT
 \n    Host: VTD
@@ -18,9 +18,9 @@ block: "no"
 voices: "VTD, Cheese_Addict"
 ---
 
-**The TG Mod Cheese_Addict becomes the first ever guest on the TG Podcast!**
+**Renowned Short Person Cheese_Addict becomes the first ever guest on the TG Podcast!**
 
-VTD interviews the TG Mod Cheese_Addict, well known as a main figure in the Birch Church, among many other things.
+VTD interviews Renowned Short Person Cheese_Addict, well known as a main figure in the Birch Church, among many other things.
 
 Credits:
 - Music: Pigstep - Lena Raine
