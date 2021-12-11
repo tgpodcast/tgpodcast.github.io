@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 7: MurdockCast"
+title: "Episode 7: Murdock and the Communist Cicadas"
 date: 2021-03-07 01:30:00 EST
 file: https://archive.org/download/tg-podcast-ep-7-audio/TG%20Podcast%20EP7%20AUDIO.mp3
 summary: "The man, the myth, the legendary builder of elaborate palaces, plazas and parapets, MRDK_Reddochi appears on the podcast!"

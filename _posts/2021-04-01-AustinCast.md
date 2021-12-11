@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 8: AustinCast"
+title: "Episode 8: PodcastIsn'tHere"
 date: 2021-04-01 00:00:00 EST
 file: https://archive.org/download/tg-podcast-ep-8-audio/TG-Podcast_EP8_AUDIO.mp3
 summary: "A_Hundred_Ninjas interviews notable TG user AustinIsntHere!"

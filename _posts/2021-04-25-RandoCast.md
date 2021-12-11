@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 9: RandoCast"
+title: "Episode 10: RandoCast"
 date: 2021-04-25 00:00:00 EST
 file: https://archive.org/download/randocast2/randocast2.mp3
 summary: "Literally just Bubby and Chephadrom talking about TG Earth for 40 minutes"
