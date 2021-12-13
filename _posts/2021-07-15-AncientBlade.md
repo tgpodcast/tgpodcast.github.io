@@ -8,7 +8,7 @@ description: "AncientBlade stars on the TG Podcast with hosts SonOfDemise, A_Hun
 \n 
 \nCredits:
 \n    Music:        Pigstep - Lena Raine
-\n    Editor:       cfdlboi
+\n    Editor:       dankkk
 \n    Hosts:        SonOfDemise, Submadoge, A_Hundred_Ninjas
 \n    Guests:       AncientBlade
 \n    Thumbnail:    TecnaGamer

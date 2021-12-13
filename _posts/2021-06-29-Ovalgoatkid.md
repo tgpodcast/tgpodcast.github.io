@@ -25,7 +25,7 @@ voices: "SonOfDemise, Fun4TheWholeFam, A_Hundred_Ninjas, Ovalgoatkid"
 
 Credits:
 - Music:        Pigstep - Lena Raine
-- Editor:       cfdlboi
+- Editor:       dankkk
 - Hosts:        SonOfDemise, Fun4TheWholeFam, A_Hundred_Ninjas
 - Guests:       Ovalgoatkid
 - Thumbnail:    TecnaGamer
