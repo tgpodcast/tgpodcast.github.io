@@ -14,7 +14,7 @@ description: "ABlazingEboy stars on the TG Podcast for the second time with host
 \n    Thumbnail and Intro:    TecnaGamer
 \n    Tech Stuff:   ABlazingEBoy"
 duration: "01:08:51" 
-length: "9502"
+length: "4131"
 explicit: "no" 
 keywords: "minecraft"
 block: "no" 
