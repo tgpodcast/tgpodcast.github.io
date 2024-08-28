@@ -8,7 +8,7 @@ description: "After a break due to burnout and our beloved host VTD retiring, th
 \n 
 \nCredits:
 \n    Music:        Pigstep - Lena Raine
-\n    Editor:       JMan_TheGamer
+\n    Editor:       Jman_TheGamer
 \n    Hosts:        Submadoge and SonOfDemise
 \n    Guest:        MRDK_Redocchi
 \n    Tech Stuff:   ABlazingEBoy"
