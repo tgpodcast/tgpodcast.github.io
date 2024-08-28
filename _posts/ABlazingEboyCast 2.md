@@ -13,12 +13,12 @@ description: "ABlazingEboy stars on the TG Podcast for the second time with host
 \n    Guest:       ABlazingEboy
 \n    Thumbnail and Intro:    TecnaGamer
 \n    Tech Stuff:   ABlazingEBoy"
-duration: "02:38:22" 
+duration: "01:08:51" 
 length: "9502"
 explicit: "no" 
 keywords: "minecraft"
 block: "no" 
-voices: "Submadoge, SlurpyTheDog, titaniumcow, Ovalgoatkid, Famskiis"
+voices: "Submadoge, Jman_TheGamer, ABlazingEboy"
 ---
 
 **ABlazingEboy stars on the TG Podcast for the second time with hosts Submadoge and Jman_TheGamer!**
