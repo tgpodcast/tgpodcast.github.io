@@ -26,7 +26,7 @@ From the origins of his odd username, to killing dogs during Anarchy Week, this 
 
 Credits:
 - Music:        Pigstep - Lena Raine
-- Editor:       JMan_TheGamer
+- Editor:       Jman_TheGamer
 - Hosts:        A_Hundred_Ninjas
 - Guest:        AustinIsntHere
 - Tech Stuff:   ABlazingEBoy
